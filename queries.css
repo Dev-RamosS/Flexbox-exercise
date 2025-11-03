@@ -1,0 +1,135 @@
+@media (max-width: 572px) {
+    .navflexmain {
+    display: flex;
+    width: 800px;
+    max-width: 97%;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    align-items: center;
+    background-color: #F2DDFF;
+
+    /*Box-settings*/
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.089);
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    padding: 5px;
+    font-size: 22px;
+}
+
+.navbars-nested a{
+    font-size: 12px;
+}
+
+footer{
+    padding: 8px;
+}
+}
+
+@media (max-width: 500px) {
+    .navflexmain {
+    display: flex;
+    width: 800px;
+    max-width: 97%;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    align-items: center;
+    background-color: #F2DDFF;
+
+    /*Box-settings*/
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.089);
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.navbars-nested a{
+    font-size: 10px;
+}
+
+footer{
+    padding: 8px;
+}
+}
+
+@media (max-width: 447px) {
+    .navflexmain {
+    display: flex;
+    width: 800px;
+    max-width: 97%;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    align-items: center;
+    background-color: #F2DDFF;
+
+    /*Box-settings*/
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.089);
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.navbars-nested a{
+    font-size: 9px;
+}
+
+footer{
+    padding: 8px;
+}
+}
+
+@media (max-width: 408px) {
+    .navflexmain {
+    display: flex;
+    width: 800px;
+    max-width: 97%;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    align-items: center;
+    background-color: #F2DDFF;
+
+    /*Box-settings*/
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.089);
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.navbars-nested a{
+    font-size: 10px;
+    text-align: center;
+    width: 50px;
+
+}
+
+footer{
+    padding: 2px;
+}
+}
+
